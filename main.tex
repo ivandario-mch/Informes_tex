@@ -17,11 +17,16 @@
 \usepackage{psfrag}
 \usepackage{pgfplots}
 \usepackage{bm}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[spanish]{babel}
+\usepackage{biblatex}
+\usepackage{csquotes}
 
-% Other Settings
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Other Settings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% Page Setting %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\graphicspath{/img}
 \geometry{a4paper}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% Define some useful colors %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -59,14 +64,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
-    \maketitle
-    Hola personas del munodo 
-    \[
-         \iint x^2 \, dx    
-    \]
-    \begin{equation}
-        \oint x^2 \, dx
-    \end{equation}
-
-
+\maketitle
+\input{Lib/Chapter_1.tex}
+\input{Lib/Chapter_2.tex}
+\printbibliography.bib
 \end{document}
