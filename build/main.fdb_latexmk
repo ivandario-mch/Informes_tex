@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber build/main"] 1736212718.7809 "build/main.bcf" "build/main.bbl" "build/main" 1736212731.06383 0
+["biber build/main"] 0 "build/main.bcf" "build/main.bbl" "build/main" 1736215756.17176 -1
   "bibliography.bib" 1736212198 258 0d3826766f8bad4c0606dc527b896bda ""
-  "build/main.bcf" 1736212730 107775 3db0815ffee67d187653ffb11589929a "pdflatex"
+  "build/main.bcf" 1736215755 107775 3db0815ffee67d187653ffb11589929a "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1736212728.22273 "c:/Users/Asus Vivobook/Desktop/Informes_tex/main.tex" "build/main.pdf" "main" 1736212731.06476 0
+["pdflatex"] 1736215753.1107 "c:/Users/Asus Vivobook/Desktop/Informes_tex/main.tex" "build/main.pdf" "main" 1736215756.17267 0
   "C:/Users/Asus" 1732476603 19026 c912408e5998a9fa4dc50683390a57c7 ""
-  "C:/Users/Asus Vivobook/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1736212220 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Asus Vivobook/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1736215695 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Asus Vivobook/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725489853 24228857 329cf4dc20de536deab9b6cda800c378 ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1233951848 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1233951848 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -49,10 +49,12 @@
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247596667 30251 6afa5cb1d0204815a708a080681d4674 ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1247596667 36281 c355509802a035cadc5f15869451dcee ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1247596666 32716 08e384dc442464e7285e891af9f45947 ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb" 1247596653 10304 e98704f815e417bc375e9a880a38e542 ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1704647332 150008 7a05b0fdc0167c04e192003e780ab195 ""
@@ -196,6 +198,7 @@
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/csquotes/csquotes.sty" 1712234901 62767 e79d6d7a989e7da62dcf3d0a65c1faee ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1601897756 46845 3b58f70c6e861a13d927bff09d35ecbc ""
+  "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg" 1578053545 1104 7ac475a4e3466b0b43e138e9356bda83 ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty" 1578053545 42759 9cf6c5257b1bc7af01a58859749dd37a ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg" 1465894292 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
@@ -241,14 +244,15 @@
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1695383086 2269 4fe6fb3396214c91f164d45faf9bec45 ""
   "C:/Users/Asus Vivobook/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1695383086 20785 f7d1133a287929598a897c93f8f4c44b ""
-  "Lib/Chapter_1.tex" 1736209215 155 b1aaffc63f2fc4ecdd67cc87c88ca76c ""
-  "Lib/Chapter_2.tex" 1736212714 95 fc378468ccdeaa4d5caa644fdfd5732b ""
-  "build/main.aux" 1736212730 489 5911641b39967eb4f2084b414706dfc4 "pdflatex"
+  "Imagenes/Captura de pantalla 2024-11-29 113246.png" 1732897966 35549 141c363219e794ddf9e940d29c9247d6 ""
+  "Lib/Chapter_1.tex" 1736213758 145 c1ac6179fca87aae7e4bd05c31c04434 ""
+  "Lib/Chapter_2.tex" 1736215749 770 2cc4453d2b484ab14b7dd0bfa60e831f ""
+  "build/main.aux" 1736215755 824 af984e8503f72c7e1e945de5c02e7a67 "pdflatex"
   "build/main.bbl" 1736212722 1710 d6eee2a1a5c7503413d73f0e4f39419a "biber build/main"
-  "build/main.run.xml" 1736212730 2307 df7158340681ae77cb3fc3a3878f9b02 "pdflatex"
+  "build/main.run.xml" 1736215755 2307 df7158340681ae77cb3fc3a3878f9b02 "pdflatex"
   "c:/Users/Asus" 1732476603 19026 c912408e5998a9fa4dc50683390a57c7 ""
-  "c:/Users/Asus Vivobook/Desktop/Informes_tex/main.tex" 1736212594 3226 f4e43a1beacc9f7bd2953935ba287556 ""
-  "main.tex" 1736212594 3226 f4e43a1beacc9f7bd2953935ba287556 ""
+  "c:/Users/Asus Vivobook/Desktop/Informes_tex/main.tex" 1736215683 3247 95dfb2313784dd599601f52b33c4a3df ""
+  "main.tex" 1736215683 3247 95dfb2313784dd599601f52b33c4a3df ""
   (generated)
   "build/main.aux"
   "build/main.bcf"

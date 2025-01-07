@@ -322,6 +322,8 @@ INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\cs
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.colorbrewer.code.tex
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarycolorbrewer.code.tex
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarycolorbrewer.code.tex
@@ -403,14 +405,21 @@ INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsf
 INPUT .\Lib\Chapter_2.tex
 INPUT .\Lib\Chapter_2.tex
 INPUT Lib\Chapter_2.tex
+INPUT .\Imagenes\Captura de pantalla 2024-11-29 113246.png
+INPUT .\Imagenes\Captura de pantalla 2024-11-29 113246.png
+INPUT .\Imagenes\Captura de pantalla 2024-11-29 113246.png
+INPUT .\Imagenes\Captura de pantalla 2024-11-29 113246.png
+OUTPUT c:\Users\Asus Vivobook\Desktop\Informes_tex\build\main.pdf
+INPUT .\Imagenes\Captura de pantalla 2024-11-29 113246.png
+INPUT .\Imagenes\Captura de pantalla 2024-11-29 113246.png
+INPUT .\Imagenes\Captura de pantalla 2024-11-29 113246.png
+INPUT C:\Users\Asus Vivobook\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\tex\latex\base\ulasy.fd
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
-OUTPUT c:\Users\Asus Vivobook\Desktop\Informes_tex\build\main.pdf
-INPUT C:\Users\Asus Vivobook\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT c:\Users\Asus Vivobook\Desktop\Informes_tex\build\main.aux
 INPUT c:\Users\Asus Vivobook\Desktop\Informes_tex\build\main.run.xml
 OUTPUT c:\Users\Asus Vivobook\Desktop\Informes_tex\build\main.run.xml
@@ -420,6 +429,8 @@ INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\am
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
@@ -428,5 +439,7 @@ INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\am
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
 INPUT C:\Users\Asus Vivobook\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
