@@ -18,17 +18,17 @@
 \usepackage{pgfplots}
 \usepackage{bm}
 \usepackage[spanish]{babel}
-\usepackage{biblatex}
+\usepackage[backend=biber]{biblatex}
 \usepackage{csquotes}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%% Other Settings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% Other Settings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% Page Setting %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \graphicspath{/img}
 \geometry{a4paper}
-
+\addbibresource{bibliography.bib}
 %%%%%%%%%%%%%%%%%%%%%%%%%% Define some useful colors %%%%%%%%%%%%%%%%%%%%%%%%%%
 \definecolor{ocre}{RGB}{243,102,25}
 \definecolor{mygray}{RGB}{243,243,244}
@@ -67,5 +67,5 @@
 \maketitle
 \input{Lib/Chapter_1.tex}
 \input{Lib/Chapter_2.tex}
-\printbibliography.bib
+\printbibliography
 \end{document}
